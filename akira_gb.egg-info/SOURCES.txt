@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-akira_gb.egg-info/PKG-INFO
-akira_gb.egg-info/SOURCES.txt
-akira_gb.egg-info/dependency_links.txt
-akira_gb.egg-info/requires.txt
-akira_gb.egg-info/top_level.txt
