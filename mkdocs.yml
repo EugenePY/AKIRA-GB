@@ -1,3 +1,34 @@
 site_name: AKIRA-GB
+repo_url: https://github.com/EugenePY/AKIRA-GB
+nav:
+    - Home: index.md
+    - GroupBuyRule: gb_rule.md
+    - PCB&Firmware: pcb_specs.md
+    - Instalation: installation_guide.md
+    - Change Log: change_log.md
 theme:
-  name: gitbook
+  name: material
+
+plugins:
+  - glightbox
+  - mkdocs-video
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - styles/extra.css
+
+extra:
+  extra:
+  version:
+    provider: mike
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+
