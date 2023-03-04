@@ -11,10 +11,10 @@
 
 ## 購買資格
 ### **售價: 12,000 NTD**
-- 於意願登記開放時間內登記[表單](sdfsdf)者，目前開放17套(數量表示如下)
+- 於意願登記開放時間內登記[表單](https://forms.gle/oMEKPyU3JQcP6i129)者，目前開放17套(數量表示如下)
 - 開放時間 **2023/3/4 ~ 2023/4/3**，開放一個月，視登記情況而定可能提早截止。
 
-!!!warning 
+!!warning 
 
     購買前請過目QC標準[Quality Control Rule](https://docs.google.com/document/d/153XZmJMXxQzAGgvxCWZMYalS6vw_5wv_01x4JV6Pi6Q/edit)
 
@@ -23,6 +23,7 @@
 - 貨物皆以7-11賣貨便出貨，請於3日內完成付款，隨後出貨。
 
 ## ** 參考打字音 **
+
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HL2KWSxJry0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -93,3 +94,9 @@
 !!! note
 
     耗材(Gasket, Poron)會在GB結束後，提供額外購買。
+
+# 表單
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdaqFLFSvkyfeAdS2ODij8t3PL9UU7tSPonw7w973NFCw6x-A/viewform?embedded=true" width="640" height="3239" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
+
+!
