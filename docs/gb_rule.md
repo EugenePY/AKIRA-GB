@@ -4,8 +4,7 @@
 
 <figure markdown>
   ![Image title](assets/render.jpeg){ width="600" }
-<figcaption>售價: 12,000 NTD</figcaption>
-
+  <figcaption>售價: 12,000 NTD</figcaption>
   <figcaption>AKIRA-V3</figcaption>
 </figure>
 
@@ -14,7 +13,7 @@
 - 於意願登記開放時間內登記[表單](https://forms.gle/oMEKPyU3JQcP6i129)者，目前開放17套(數量表示如下)
 - 開放時間 **2023/3/4 ~ 2023/4/3**，開放一個月，視登記情況而定可能提早截止。
 
-!!warning 
+!!!warning 
 
     購買前請過目QC標準[Quality Control Rule](https://docs.google.com/document/d/153XZmJMXxQzAGgvxCWZMYalS6vw_5wv_01x4JV6Pi6Q/edit)
 
