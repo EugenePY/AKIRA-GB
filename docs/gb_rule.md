@@ -2,7 +2,6 @@
 
 本次登記出售版本: **AKIRA-V3**
 
-
 <figure markdown>
   ![Image title](assets/render.jpeg){ width="600" }
 <figcaption>售價: 12,000 NTD</figcaption>
@@ -11,7 +10,7 @@
 </figure>
 
 ## 購買資格
-- **售價: 12,000 NTD**
+### **售價: 12,000 NTD**
 - 於意願登記開放時間內登記[表單](sdfsdf)者，目前開放17套(數量表示如下)
 - 開放時間 **2023/3/4 ~ 2023/4/3**，開放一個月，視登記情況而定可能提早截止。
 
@@ -19,11 +18,11 @@
 
     購買前請過目QC標準[Quality Control Rule](https://docs.google.com/document/d/153XZmJMXxQzAGgvxCWZMYalS6vw_5wv_01x4JV6Pi6Q/edit)
 
-## 出貨方式
+## 出貨方式: 全款後7-11賣貨便
 - 於意願登記結束後，**3日內會以email通知，未抽中資格者不會另外再做通知**，如未在時段內**一週內**回信視為放棄資格。
 - 貨物皆以7-11賣貨便出貨，請於3日內完成付款，隨後出貨。
 
-** 參考打字音 **
+## ** 參考打字音 **
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HL2KWSxJry0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>

@@ -4,14 +4,15 @@ nav:
     - Home: index.md
     - GroupBuyRule: gb_rule.md
     - PCB&Firmware: pcb_specs.md
-    - Instalation: installation_guide.md
+    - Installation: installation_guide.md
     - Change Log: change_log.md
 theme:
   name: material
 
 plugins:
   - glightbox
-  - mkdocs-video
+  - search
+  - alternate-link
 
 markdown_extensions:
   - attr_list
@@ -19,7 +20,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
 extra_css:
   - styles/extra.css
 
